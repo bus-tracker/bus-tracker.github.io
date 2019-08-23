@@ -3,8 +3,8 @@ layout: post
 title: Get Bus-Tracker in your College/University.
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+We are looking for opportunities to expand this project to more colleges and universities. We encourage you to take the lead and help us bring the Bus Tracker App to your institution. 
 
 ![_config.yml]({{ site.baseurl }}/images/osrm.jpg)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Fill up [this form](https://docs.google.com/forms/d/e/1FAIpQLSf1doIFcXE50Jyt6BiMpkp0AjTD3wOaMC0JZHeM6pT7afJRZg/viewform?usp=sf_link) so we can get back to you at the earliest.
