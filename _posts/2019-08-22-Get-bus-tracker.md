@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Get Bus-Tracker in your College/University.
+title: Support Bus-Tracker by helping us expand to other College/University.
 ---
 
 We are looking for opportunities to expand this project to more colleges and universities. We encourage you to take the lead and help us bring the Bus Tracker App to your institution. 
