@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Bus-Tracker is a free software/iot system developed by Mayurdeep Pathak and Dibyajyoti Chatterjee. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently, its still under development bus is scheduled for launch on 3rd Sep 2019. 
 
-### Contact me
+### Contact Us
 
-[email@domain.com](mailto:email@domain.com)
+[mayurdeeppathak@gmail.com](mailto:mayurdeeppathak@gmail.com)
